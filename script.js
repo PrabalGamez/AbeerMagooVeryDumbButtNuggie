@@ -1,0 +1,1 @@
+document.getElementById("codee").innerHTML = 'iframe src="www.AbeerVeryDum.com/Dum" width=1280px height=1280px'
